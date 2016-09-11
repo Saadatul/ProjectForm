@@ -7,8 +7,9 @@
 6. checkbox untuk menginputkan sub organisasi yang diinginkan
 7. button untuk memproses dari inputan untuk menampilakan hasil
 8. text view hasil untuk menampilkan hasil dari semua inputan tadi setelah button dipencet
-apk :
-https://drive.google.com/open?id=0B7B9myqe35ONQndQbGtQZDE5bTA
-screenshoot :
-https://drive.google.com/open?id=0B7B9myqe35ONRXNSYzl2dGFCWFE
+<br>
+apk : <br>
+https://drive.google.com/open?id=0B7B9myqe35ONQndQbGtQZDE5bTA <br>
+screenshoot : <br>
+https://drive.google.com/open?id=0B7B9myqe35ONRXNSYzl2dGFCWFE <br>
 Sa'adatul Sholehah_XIRPL6_32_4821/1540.870_SMK TELKOM MALANG
