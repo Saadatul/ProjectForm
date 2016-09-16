@@ -10,6 +10,14 @@
 <br>
 apk : <br>
 https://drive.google.com/open?id=0B7B9myqe35ONQndQbGtQZDE5bTA <br>
-screenshoot : <br>
-https://drive.google.com/open?id=0B7B9myqe35ONRXNSYzl2dGFCWFE <br>
+
+### Screenshoot APK
+
+![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONRVFIb2c1eDdoSlk)
+![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONQVpUWnh2VHlSVzg)
+![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONZUhGV0c4WFItQzg)
+![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONZjZ6bWJVS2dSSzA)
+![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONejBnbGlHS09LTFU)
+![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONQ0pwUGwyQUVpS2s)
+
 Sa'adatul Sholehah_XIRPL6_32_4821/1540.870_SMK TELKOM MALANG
