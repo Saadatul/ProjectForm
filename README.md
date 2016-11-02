@@ -20,8 +20,8 @@ https://drive.google.com/open?id=0B7B9myqe35ONQndQbGtQZDE5bTA <br>
 ![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONRVFIb2c1eDdoSlk)
 ![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONQVpUWnh2VHlSVzg)
 
-Nama : Sa'adatul Sholehah
-Kelas : XIRPL6
-No Absen : 32
-NIS : 4821/1540.870
+Nama : Sa'adatul Sholehah <br>
+Kelas : XIRPL6 <br>
+No Absen : 32 <br>
+NIS : 4821/1540.870 <br>
 SMK TELKOM MALANG
